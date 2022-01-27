@@ -1,2 +1,2 @@
-# repo-teste
-meu primeiro repositório
+# repo teste
+meu primeiro repositorio
